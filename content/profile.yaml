@@ -1,10 +1,10 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
-  profession: Web Developer
+  initials: NV
+  name: Niza Vera
+  email: nizavera95@gmail.com
+  profession: Full Stack Web Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Fort Lauderdale, FL
   relocation: true
   company: Atomic Studio
   for_hire: true

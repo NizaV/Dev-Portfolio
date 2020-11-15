@@ -6,14 +6,19 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    description: "Personal page of Niza Vera",
+    locale: "en",
+    title: "Niza Vera",
+  },
   plugins: [
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
-        basePath: "/",
+        basePath: "/resume",
         contentPath: "content/",
         showThemeLogo: true,
-        theme: "classic",
+        theme: "warm-red",
       },
     },
   ],
